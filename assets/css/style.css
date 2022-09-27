@@ -91,3 +91,11 @@ ol {
     -webkit-animation-name: fadeIn;
     animation-name: fadeIn;
 }
+
+
+.scroll{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    overflow: auto;
+}
